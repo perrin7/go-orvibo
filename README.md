@@ -5,10 +5,9 @@ go-orvibo is an event driver library for controlling various Orvibo products, in
 
 perrin7 - jotting down ideas to play with
 =====
-compile the go package to a .so usable in python!
-https://blog.filippo.io/building-python-modules-with-go-1-5/
-
-create a test python file (port tests/main.go to tests/main.py)
+ - compile the go package to a .so usable in python!  https://blog.filippo.io/building-python-modules-with-go-1-5/
+ - create a test python file (port tests/main.go to tests/main.py)
+ - Ideally port this to openHAB2 and make a java binding that is native
 
 Usage
 =====
