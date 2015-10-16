@@ -3,6 +3,13 @@ go-orvibo
 
 go-orvibo is an event driver library for controlling various Orvibo products, including the AllOne and the S10 / S20 Wi-Fi sockets.
 
+perrin7 proposed updates
+=====
+compile the go package to a .so usable in python!
+https://blog.filippo.io/building-python-modules-with-go-1-5/
+
+create a test python file (port tests/main.go to tests/main.py)
+
 Usage
 =====
 
